@@ -1,0 +1,15 @@
+[submodule "src/ros_gz"]
+	path = src/ros_gz
+	url = git@github.com:HKUST-UROP-ROV-SIM/ros_gz.git
+[submodule "src/ros2_shared"]
+	path = src/ros2_shared
+	url = git@github.com:HKUST-UROP-ROV-SIM/ros2_shared.git
+[submodule "src/bluerov2_ignition"]
+	path = src/bluerov2_ignition
+	url = git@github.com:HKUST-UROP-ROV-SIM/bluerov2_ignition.git
+[submodule "src/orca4"]
+	path = src/orca4
+	url = git@github.com:HKUST-UROP-ROV-SIM/orca4.git
+[submodule "src/orb_slam2_ros"]
+	path = src/orb_slam2_ros
+	url = git@github.com:HKUST-UROP-ROV-SIM/orb_slam2_ros.git
